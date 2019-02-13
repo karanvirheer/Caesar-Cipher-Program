@@ -1,0 +1,19 @@
+HISTORY OF THE CAESAR CIPHER ----------------------------------------
+
+In cryptography, a Caesar cipher, also known as a Caesar's cipher, 
+the shift cipher, Caesar's Code or Caesar Shift, is one of the simplest 
+and most widely-known encryption techniques. It is a type of substitution 
+cipher in which each letter in the plaintext is replaced by a letter some 
+fixed number of positions further down the alphabet. For example, with a 
+shift of 3, A would be replaced by D, B would become E, and so on. 
+The method is named after Julius Caesar, who used it to communicate 
+with his generals.
+
+The encryption step performed by a Caesar cipher is often incorporated 
+as part of more complex schemes, such as the Vigenère cipher, and still 
+has modern application in the ROT13 system. As with all single alphabet 
+substitution ciphers, the Caesar cipher is easily broken and in practice 
+offers essentially no communication security.
+
+LEARN MORE -------------------
+https://www.cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/c/Caesar_cipher.htm

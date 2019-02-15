@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"cipher","l":"barGraph"},{"p":"cipher","l":"karanvirCipher"},{"p":"cipher","l":"piGraph"},{"p":"cipher","l":"Testing"}]

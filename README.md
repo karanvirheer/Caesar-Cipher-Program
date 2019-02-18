@@ -4,7 +4,7 @@
 A program capable of:
 1. Encrypting
 2. Decrypting WITH a key
-3. Decrypting WIHOUT a key
+3. Decrypting WITHOUT a key
 4. Allows decrypting in the following languages:
    * English
    * Italian

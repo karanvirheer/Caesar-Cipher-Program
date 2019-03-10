@@ -18,7 +18,7 @@ I've written detailed report outlining every portion of the Caesar Cipher code. 
 * Problem Statement
 * UML Diagram
 * API Documentation
-* Explanation of COde
+* Explanation of Code
 * Testing Results & Explanation
 * Updates/Reasons
 * New Learning

@@ -12,7 +12,7 @@ A program capable of:
 5. Outputs a Bar or Pie graph showcasing frequency of words
 
 ## In-Depth Report
-I've written detailed report outlining every portion of the Caesar Cipher code. Below is a rough outline of the contents. 
+I've written detailed report outlining every portion of the Caesar Cipher code. Below is a rough outline of the contents: 
 
 * Calendar
 * Problem Statement
